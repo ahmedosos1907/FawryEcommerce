@@ -1,0 +1,1 @@
+// NonExpirableProduct extends Product

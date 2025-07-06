@@ -1,0 +1,1 @@
+// ShippableProduct extends ExpirableProduct and implements Shippable

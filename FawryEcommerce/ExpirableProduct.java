@@ -1,0 +1,1 @@
+// ExpirableProduct extends Product
